@@ -52,8 +52,8 @@ magnet:?xt=urn:btih:71da0acf63fbcda3b85696e99e5748ead61f0d54</link>
 <item>
 <title>[COLOR silver][B] Uma Questão de Fé [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:77b7bcc8f81e52878864655ffb9d09f59d9f3532</link>
-<thumbnail></thumbnail>
-<fanart>https://2.bp.blogspot.com/-MeogDVB3s58/W0oaId7XG5I/AAAAAAAAN8w/jkNht11nHTMlkVACmx9xvZHk-iwKl-O7wCLcBGAs/s1600/Uma%2BQuest%25C3%25A3o%2Bde%2BF%25C3%25A9%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg</fanart>
+<thumbnail>https://2.bp.blogspot.com/-MeogDVB3s58/W0oaId7XG5I/AAAAAAAAN8w/jkNht11nHTMlkVACmx9xvZHk-iwKl-O7wCLcBGAs/s1600/Uma%2BQuest%25C3%25A3o%2Bde%2BF%25C3%25A9%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg</thumbnail>
+<fanart></fanart>
 <info>Três famílias, diferentes culturas, mesma comunidade, todos completos estranhos. Eles vivem vidas muito distintas até que mensagens trágicas e acidentes os colocam unidos em um caminho de amor, perdão, graça e misericórdia.</info>
 </item> 
 *****************************
@@ -82,11 +82,9 @@ magnet:?xt=urn:btih:71da0acf63fbcda3b85696e99e5748ead61f0d54</link>
 <item>
 <title>[COLOR silver][B] ATÉ O ULTIMO HOMEN [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F89D2C5A2DA55AC68DED0F97022B8F648F17B52E</link>
-<thumbnail></thumbnail>
-<fanart>https://baixakifilmes.net/uploads/36/294070448631028a188296.jpg</fanart>
+<thumbnail>https://baixakifilmes.net/uploads/36/294070448631028a188296.jpg</thumbnail>
+<fanart></fanart>
 <info>Uma história que se passa durante Segunda Guerra Mundial, um médico do exército Desmond T. Doss se recusa a pegar em uma arma e matar outras pessoas, porém, durante a Batalha de Okinawa ele trabalha na ala médica e salva mais de 75 homens. Salvando até o último homem ele acaba sendo condecorado. O que faz de Doss o primeiro Opositor Consciente da história norte-americana a receber a Medalha de Honra do Congresso.
-
-
 Baixar Até o Último Homem D</info>
 </item> 
 *****************************
